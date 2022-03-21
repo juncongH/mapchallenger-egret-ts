@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StageOneSkin" width="2500" height="1284.713" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="17f5f336a60" ></w:Config>
+	<e:Rect id="Bg" width="2500" height="1280" left="0" top="0" fillColor="0xFFFFFF"/>
+	<e:Label id="title1" text="Stage 3" y="300" horizontalCenter="0" textAlign="center" textColor="0x060606" size="80" touchEnabled="false"/>
+	<e:Label id="title2" text="猜轮廓" y="500" horizontalCenter="0" textAlign="center" textColor="0x030303" verticalAlign="middle" size="120" touchEnabled="false" height="150"/>
+	<e:Label id="ScoreBoard" x="90" y="45" width="300" height="100" textColor="0x000000" size="50"/>
+	<e:Image source="blueRect_png" y="30" horizontalCenter="0"/>
+</e:Skin>

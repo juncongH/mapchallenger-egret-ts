@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SelectAreaSkin" width="2600.359" height="1400.53" currentState="start" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing"  states="finish,start"  height.start="1392.73">
+	<w:Config id="17f591a2108" ></w:Config>
+	<e:Image source="world_png" includeIn="start" x="0" y="0" width="2444.467" height="1155.983"/>
+	<e:ToggleButton id="America" label="ToggleButton" x="500" y="500" width="128" height="128" visible="true" skinName="SelectAreaBT" includeIn="start"/>
+	<e:ToggleButton id="Africa" label="ToggleButton" x="1335.803" y="731.204" width="128" height="128" skinName="SelectAreaBT" includeIn="start"/>
+	<e:ToggleButton id="Europe" label="ToggleButton" x="1150" y="300" width="128" height="128" skinName="SelectAreaBT" includeIn="start"/>
+	<e:ToggleButton id="Asia" label="ToggleButton" x="1913.105" y="500" width="128" height="128" skinName="SelectAreaBT" includeIn="start"/>
+	<e:ToggleButton id="Oceanic" label="ToggleButton" x="2117.005" y="859.204" width="128" height="128" skinName="SelectAreaBT" includeIn="start"/>
+	<e:Rect id="Bg" width="2596.723" height="1397.348" includeIn="finish" x="0.298" y="3.487" fillColor="0xFFFFFF"/>
+	<e:Label id="ScoreLabel" includeIn="finish" horizontalCenter="-0.1794999999999618" verticalCenter="-176.265" width="1500" height="500" size="90" verticalAlign="middle" textAlign="center"/>
+</e:Skin>

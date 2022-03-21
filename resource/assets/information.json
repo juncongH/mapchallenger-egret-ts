@@ -1,0 +1,1002 @@
+{
+    "America": {
+        "country": [
+            {
+                "CName": "美国",
+                "EName": "US",
+                "Capital": "华盛顿"
+            },
+            {
+                "CName": "加拿大",
+                "EName": "CA",
+                "Capital": "渥太华"
+            },
+            {
+                "CName": "墨西哥",
+                "EName": "MX",
+                "Capital": "墨西哥城"
+            },
+            {
+                "CName": "危地马拉",
+                "EName": "GT",
+                "Capital": "危地马拉城"
+            },
+            {
+                "CName": "伯利兹",
+                "EName": "BZ",
+                "Capital": "贝尔莫潘"
+            },
+            {
+                "CName": "萨尔瓦多",
+                "EName": "SV",
+                "Capital": "圣萨尔瓦多"
+            },
+            {
+                "CName": "洪都拉斯",
+                "EName": "HN",
+                "Capital": "特古西加尔巴"
+            },
+            {
+                "CName": "巴拿马",
+                "EName": "PA",
+                "Capital": "巴拿马城"
+            },
+            {
+                "CName": "巴哈马",
+                "EName": "BS",
+                "Capital": "拿骚"
+            },
+            {
+                "CName": "古巴",
+                "EName": "CU",
+                "Capital": "哈瓦那"
+            },
+            {
+                "CName": "牙买加",
+                "EName": "JM",
+                "Capital": "金斯敦"
+            },
+            {
+                "CName": "海地",
+                "EName": "HT",
+                "Capital": "太子港"
+            },
+            {
+                "CName": "多米尼加",
+                "EName": "DO",
+                "Capital": "圣多明各"
+            },
+            {
+                "CName": "哥斯达黎加",
+                "EName": "CR",
+                "Capital": "圣何塞"
+            },
+            {
+                "CName": "圣基茨和尼维斯",
+                "EName": "KN",
+                "Capital": "巴斯特尔"
+            },
+            {
+                "CName": "安提瓜和巴布达",
+                "EName": "AG",
+                "Capital": "圣约翰"
+            },
+            {
+                "CName": "多米尼克",
+                "EName": "DM",
+                "Capital": "罗索"
+            },
+            {
+                "CName": "圣卢西亚",
+                "EName": "LC",
+                "Capital": "卡斯特里"
+            },
+            {
+                "CName": "圣文森特和格林纳丁斯",
+                "EName": "VC",
+                "Capital": "金斯顿"
+            },
+            {
+                "CName": "巴巴多斯",
+                "EName": "BB",
+                "Capital": "布里奇顿"
+            },
+            {
+                "CName": "格林纳达",
+                "EName": "GD",
+                "Capital": "圣乔治"
+            },
+            {
+                "CName": "特立尼达和多巴哥",
+                "EName": "TT",
+                "Capital": "西班牙港"
+            },
+            {
+                "CName": "尼加拉瓜",
+                "EName": "NI",
+                "Capital": "马那瓜"
+            },
+            {
+                "CName": "厄瓜多尔",
+                "EName": "EC",
+                "Capital": "基多"
+            },
+            {
+                "CName": "哥伦比亚",
+                "EName": "CO",
+                "Capital": "圣菲波哥大"
+            },
+            {
+                "CName": "委内瑞拉",
+                "EName": "VE",
+                "Capital": "加拉加斯"
+            },
+            {
+                "CName": "秘鲁",
+                "EName": "PE",
+                "Capital": "利马"
+            },
+            {
+                "CName": "巴西",
+                "EName": "BR",
+                "Capital": "巴西利亚"
+            },
+            {
+                "CName": "智利",
+                "EName": "CL",
+                "Capital": "圣地亚哥"
+            },
+            {
+                "CName": "乌拉圭",
+                "EName": "UY",
+                "Capital": "蒙得维的亚"
+            },
+            {
+                "CName": "巴拉圭",
+                "EName": "PY",
+                "Capital": "亚松森"
+            },
+            {
+                "CName": "阿根廷",
+                "EName": "AR",
+                "Capital": "布宜诺斯艾利斯"
+            },
+            {
+                "CName": "圭亚那",
+                "EName": "GY",
+                "Capital": "乔治敦"
+            },
+            {
+                "CName": "玻利维亚",
+                "EName": "BO",
+                "Capital": "苏克雷"
+            },
+            {
+                "CName": "苏里南",
+                "EName": "SR",
+                "Capital": "帕拉马里博"
+            },
+            {
+                "CName": "马尔维纳斯群岛",
+                "EName": "FK",
+                "Capital": "斯坦利港"
+            }
+        ]
+    },
+    "Europe": {
+        "country": [
+            {
+                "CName": "丹麦",
+                "EName": "DK",
+                "Capital": "哥本哈根"
+            },
+            {
+                "CName": "冰岛",
+                "EName": "IS",
+                "Capital": "雷克雅未克"
+            },
+            {
+                "CName": "芬兰",
+                "EName": "FI",
+                "Capital": "赫尔辛基"
+            },
+            {
+                "CName": "瑞典",
+                "EName": "SE",
+                "Capital": "斯德哥尔摩"
+            },
+            {
+                "CName": "挪威",
+                "EName": "NO",
+                "Capital": "奥斯陆"
+            },
+            {
+                "CName": "英国",
+                "EName": "UK",
+                "Capital": "伦敦"
+            },
+            {
+                "CName": "法国",
+                "EName": "FR",
+                "Capital": "巴黎"
+            },
+            {
+                "CName": "荷兰",
+                "EName": "NL",
+                "Capital": "阿姆斯特丹"
+            },
+            {
+                "CName": "比利时",
+                "EName": "BE",
+                "Capital": "布鲁塞尔"
+            },
+            {
+                "CName": "卢森堡",
+                "EName": "LU",
+                "Capital": "卢森堡市"
+            },
+            {
+                "CName": "摩纳哥",
+                "EName": "MC",
+                "Capital": "摩纳哥"
+            },
+            {
+                "CName": "爱尔兰",
+                "EName": "IE",
+                "Capital": "都柏林"
+            },
+            {
+                "CName": "德国",
+                "EName": "DE",
+                "Capital": "柏林"
+            },
+            {
+                "CName": "瑞士",
+                "EName": "CH",
+                "Capital": "伯恩"
+            },
+            {
+                "CName": "奥地利",
+                "EName": "AT",
+                "Capital": "维也纳"
+            },
+            {
+                "CName": "匈牙利",
+                "EName": "HU",
+                "Capital": "布达佩斯"
+            },
+            {
+                "CName": "波兰",
+                "EName": "PL",
+                "Capital": "华沙"
+            },
+            {
+                "CName": "捷克",
+                "EName": "CZ",
+                "Capital": "布拉格"
+            },
+            {
+                "CName": "列支敦士登",
+                "EName": "LI",
+                "Capital": "瓦杜兹"
+            },
+            {
+                "CName": "斯洛伐克",
+                "EName": "SK",
+                "Capital": "布拉迪斯拉发"
+            },
+            {
+                "CName": "意大利",
+                "EName": "IT",
+                "Capital": "罗马"
+            },
+            {
+                "CName": "西班牙",
+                "EName": "ES",
+                "Capital": "马德里"
+            },
+            {
+                "CName": "葡萄牙",
+                "EName": "PT",
+                "Capital": "里斯本"
+            },
+            {
+                "CName": "希腊",
+                "EName": "GR",
+                "Capital": "雅典"
+            },
+            {
+                "CName": "梵蒂冈",
+                "EName": "VA",
+                "Capital": "梵蒂冈城"
+            },
+            {
+                "CName": "罗马尼亚",
+                "EName": "RO",
+                "Capital": "布加勒斯特"
+            },
+            {
+                "CName": "保加利亚",
+                "EName": "BG",
+                "Capital": "索非亚"
+            },
+            {
+                "CName": "克罗地亚",
+                "EName": "HR",
+                "Capital": "萨格勒布"
+            },
+            {
+                "CName": "斯洛文尼亚",
+                "EName": "SI",
+                "Capital": "卢布尔雅那"
+            },
+            {
+                "CName": "塞尔维亚",
+                "EName": "RS",
+                "Capital": "贝尔格莱德"
+            },
+            {
+                "CName": "波黑",
+                "EName": "ME",
+                "Capital": "塞拉热窝"
+            },
+            {
+                "CName": "黑山",
+                "EName": "FK",
+                "Capital": "波德戈里察"
+            },
+            {
+                "CName": "北马其顿",
+                "EName": "MK",
+                "Capital": "斯科普里"
+            },
+            {
+                "CName": "安道尔",
+                "EName": "AD",
+                "Capital": "安道尔城"
+            },
+            {
+                "CName": "阿尔巴尼亚",
+                "EName": "AL",
+                "Capital": "地拉那"
+            },
+            {
+                "CName": "马耳他",
+                "EName": "MT",
+                "Capital": "瓦莱塔"
+            },
+            {
+                "CName": "圣马力诺",
+                "EName": "SM",
+                "Capital": "圣马力诺"
+            },
+            {
+                "CName": "俄罗斯",
+                "EName": "RU",
+                "Capital": "莫斯科"
+            },
+            {
+                "CName": "白俄罗斯",
+                "EName": "BY",
+                "Capital": "明斯克"
+            },
+            {
+                "CName": "乌克兰",
+                "EName": "UA",
+                "Capital": "基辅"
+            },
+            {
+                "CName": "立陶宛",
+                "EName": "LT",
+                "Capital": "维尔纽斯"
+            },
+            {
+                "CName": "爱沙尼亚",
+                "EName": "EE",
+                "Capital": "塔林"
+            },
+            {
+                "CName": "摩尔多瓦",
+                "EName": "MD",
+                "Capital": "基希讷乌"
+            },
+            {
+                "CName": "拉脱维亚",
+                "EName": "LV",
+                "Capital": "里加"
+            }
+        ]
+    },
+    "Africa": {
+        "country": [
+            {
+                "CName": "阿尔及利亚",
+                "EName": "DZ",
+                "Capital": "阿尔及尔"
+            },
+            {
+                "CName": "埃及",
+                "EName": "EG",
+                "Capital": "开罗"
+            },
+            {
+                "CName": "埃塞俄比亚",
+                "EName": "ET",
+                "Capital": "亚的斯亚贝巴"
+            },
+            {
+                "CName": "安哥拉",
+                "EName": "AO",
+                "Capital": "罗安达"
+            },
+            {
+                "CName": "贝宁",
+                "EName": "BJ",
+                "Capital": "波多诺伏"
+            },
+            {
+                "CName": "博茨瓦纳",
+                "EName": "BW",
+                "Capital": "哈博罗内"
+            },
+            {
+                "CName": "布基纳法索",
+                "EName": "BF",
+                "Capital": "瓦加杜古"
+            },
+            {
+                "CName": "布隆迪",
+                "EName": "BI",
+                "Capital": "布琼布拉"
+            },
+            {
+                "CName": "赤道几内亚",
+                "EName": "GQ",
+                "Capital": "马拉博"
+            },
+            {
+                "CName": "多哥",
+                "EName": "TG",
+                "Capital": "洛美"
+            },
+            {
+                "CName": "厄立特里亚",
+                "EName": "ER",
+                "Capital": "阿斯马拉"
+            },
+            {
+                "CName": "佛得角",
+                "EName": "CV",
+                "Capital": "普拉亚"
+            },
+            {
+                "CName": "冈比亚",
+                "EName": "GM",
+                "Capital": "班珠尔"
+            },
+            {
+                "CName": "刚果",
+                "EName": "CG",
+                "Capital": "里加"
+            },
+            {
+                "CName": "刚果（金）",
+                "EName": "CD",
+                "Capital": "金沙萨"
+            },
+            {
+                "CName": "吉布提",
+                "EName": "DJ",
+                "Capital": "吉布提市"
+            },
+            {
+                "CName": "几内亚",
+                "EName": "GN",
+                "Capital": "科纳克里"
+            },
+            {
+                "CName": "几内亚比绍",
+                "EName": "GW",
+                "Capital": "比绍"
+            },
+            {
+                "CName": "加纳",
+                "EName": "GH",
+                "Capital": "阿克拉"
+            },
+            {
+                "CName": "加蓬",
+                "EName": "GA",
+                "Capital": "利伯维尔"
+            },
+            {
+                "CName": "津巴布韦",
+                "EName": "ZW",
+                "Capital": "哈拉雷"
+            },
+            {
+                "CName": "喀麦隆",
+                "EName": "CM",
+                "Capital": "雅温得"
+            },
+            {
+                "CName": "科摩罗",
+                "EName": "KM",
+                "Capital": "莫罗尼"
+            },
+            {
+                "CName": "科特迪瓦",
+                "EName": "CI",
+                "Capital": "亚穆苏克罗"
+            },
+            {
+                "CName": "肯尼亚",
+                "EName": "KE",
+                "Capital": "内罗毕"
+            },
+            {
+                "CName": "莱索托",
+                "EName": "LS",
+                "Capital": "马塞卢"
+            },
+            {
+                "CName": "利比里亚",
+                "EName": "LR",
+                "Capital": "蒙罗维亚"
+            },
+            {
+                "CName": "利比亚",
+                "EName": "LY",
+                "Capital": "的黎波里"
+            },
+            {
+                "CName": "卢旺达",
+                "EName": "RW",
+                "Capital": "基加利"
+            },
+            {
+                "CName": "马达加斯加",
+                "EName": "MG",
+                "Capital": "塔那那利佛"
+            },
+            {
+                "CName": "马拉维",
+                "EName": "MW",
+                "Capital": "利隆圭"
+            },
+            {
+                "CName": "马里",
+                "EName": "ML",
+                "Capital": "巴马科"
+            },
+            {
+                "CName": "毛里求斯",
+                "EName": "MU",
+                "Capital": "路易港"
+            },
+            {
+                "CName": "毛里塔尼亚",
+                "EName": "MR",
+                "Capital": "努瓦克肖特"
+            },
+            {
+                "CName": "摩洛哥",
+                "EName": "MA",
+                "Capital": "拉巴特"
+            },
+            {
+                "CName": "莫桑比克",
+                "EName": "MZ",
+                "Capital": "马普托"
+            },
+            {
+                "CName": "纳米比亚",
+                "EName": "NA",
+                "Capital": "温得和克"
+            },
+            {
+                "CName": "南非",
+                "EName": "ZA",
+                "Capital": "茨瓦内"
+            },
+            {
+                "CName": "尼日尔",
+                "EName": "NE",
+                "Capital": "尼亚美"
+            },
+            {
+                "CName": "尼日利亚",
+                "EName": "NG",
+                "Capital": "阿布贾"
+            },
+            {
+                "CName": "塞拉利昂",
+                "EName": "SL",
+                "Capital": "弗里敦"
+            },
+            {
+                "CName": "塞内加尔",
+                "EName": "SN",
+                "Capital": "达喀尔"
+            },
+            {
+                "CName": "塞舌尔",
+                "EName": "SC",
+                "Capital": "维多利亚"
+            },
+            {
+                "CName": "圣多美和普林西比",
+                "EName": "ST",
+                "Capital": "圣多美"
+            },
+            {
+                "CName": "斯威士兰",
+                "EName": "SZ",
+                "Capital": "姆巴巴内"
+            },
+            {
+                "CName": "苏丹",
+                "EName": "SD",
+                "Capital": "喀土穆"
+            },
+            {
+                "CName": "索马里",
+                "EName": "SO",
+                "Capital": "摩加迪沙"
+            },
+            {
+                "CName": "坦桑尼亚",
+                "EName": "TZ",
+                "Capital": "多多马"
+            },
+            {
+                "CName": "突尼斯",
+                "EName": "TN",
+                "Capital": "突尼斯市"
+            },
+            {
+                "CName": "乌干达",
+                "EName": "UG",
+                "Capital": "坎帕拉"
+            },
+            {
+                "CName": "赞比亚",
+                "EName": "ZM",
+                "Capital": "卢萨卡"
+            },
+            {
+                "CName": "乍得",
+                "EName": "TD",
+                "Capital": "恩贾梅纳"
+            },
+            {
+                "CName": "中非",
+                "EName": "CF",
+                "Capital": "班吉"
+            }
+        ]
+    },
+    "Asia": {
+        "country": [
+            {
+                "CName": "巴林",
+                "EName": "BH",
+                "Capital": "麦纳麦"
+            },
+            {
+                "CName": "韩国",
+                "EName": "KR",
+                "Capital": "首尔"
+            },
+            {
+                "CName": "黎巴嫩",
+                "EName": "LB",
+                "Capital": "贝鲁特"
+            },
+            {
+                "CName": "东帝汶",
+                "EName": "TL",
+                "Capital": "帝力"
+            },
+            {
+                "CName": "尼泊尔",
+                "EName": "NP",
+                "Capital": "加德满都"
+            },
+            {
+                "CName": "泰国",
+                "EName": "TH",
+                "Capital": "曼谷"
+            },
+            {
+                "CName": "巴基斯坦",
+                "EName": "PK",
+                "Capital": "伊斯兰堡"
+            },
+            {
+                "CName": "阿联酋",
+                "EName": "AE",
+                "Capital": "阿布扎尔"
+            },
+            {
+                "CName": "不丹",
+                "EName": "BT",
+                "Capital": "廷布"
+            },
+            {
+                "CName": "阿曼",
+                "EName": "OM",
+                "Capital": "马斯喀特"
+            },
+            {
+                "CName": "阿塞拜疆",
+                "EName": "AZ",
+                "Capital": "巴库"
+            },
+            {
+                "CName": "朝鲜",
+                "EName": "KP",
+                "Capital": "平壤"
+            },
+            {
+                "CName": "菲律宾",
+                "EName": "PH",
+                "Capital": "马尼拉"
+            },
+            {
+                "CName": "柬埔寨",
+                "EName": "KH",
+                "Capital": "金边"
+            },
+            {
+                "CName": "卡塔尔",
+                "EName": "QA",
+                "Capital": "多哈"
+            },
+            {
+                "CName": "吉尔吉斯斯坦",
+                "EName": "KG",
+                "Capital": "比什凯克"
+            },
+            {
+                "CName": "马尔代夫",
+                "EName": "MV",
+                "Capital": "马累"
+            },
+            {
+                "CName": "马来西亚",
+                "EName": "MY",
+                "Capital": "吉隆坡"
+            },
+            {
+                "CName": "蒙古",
+                "EName": "MN",
+                "Capital": "乌兰巴托"
+            },
+            {
+                "CName": "沙特阿拉伯",
+                "EName": "SA",
+                "Capital": "利雅得"
+            },
+            {
+                "CName": "文莱",
+                "EName": "BN",
+                "Capital": "斯里巴加湾市"
+            },
+            {
+                "CName": "老挝",
+                "EName": "LA",
+                "Capital": "万象"
+            },
+            {
+                "CName": "日本",
+                "EName": "JP",
+                "Capital": "东京"
+            },
+            {
+                "CName": "土库曼斯坦",
+                "EName": "TM",
+                "Capital": "阿什哈巴德"
+            },
+            {
+                "CName": "哈萨克斯坦",
+                "EName": "KZ",
+                "Capital": "努尔苏丹"
+            },
+            {
+                "CName": "巴勒斯坦",
+                "EName": "PS",
+                "Capital": "耶路撒冷"
+            },
+            {
+                "CName": "塔吉克斯坦",
+                "EName": "TJ",
+                "Capital": "杜尚别"
+            },
+            {
+                "CName": "格鲁吉亚",
+                "EName": "GE",
+                "Capital": "第比利斯"
+            },
+            {
+                "CName": "科威特",
+                "EName": "KW",
+                "Capital": "科威特城"
+            },
+            {
+                "CName": "叙利亚",
+                "EName": "SY",
+                "Capital": "大马士革"
+            },
+            {
+                "CName": "印度",
+                "EName": "IN",
+                "Capital": "新德里"
+            },
+            {
+                "CName": "印度尼西亚",
+                "EName": "ID",
+                "Capital": "雅加达"
+            },
+            {
+                "CName": "亚美尼亚",
+                "EName": "AM",
+                "Capital": "埃里温"
+            },
+            {
+                "CName": "阿富汗",
+                "EName": "AF",
+                "Capital": "喀布尔"
+            },
+            {
+                "CName": "乌兹别克斯坦",
+                "EName": "UZ",
+                "Capital": "塔什干"
+            },
+            {
+                "CName": "斯里兰卡",
+                "EName": "LK",
+                "Capital": "科伦坡"
+            },
+            {
+                "CName": "伊拉克",
+                "EName": "IQ",
+                "Capital": "巴格达"
+            },
+            {
+                "CName": "越南",
+                "EName": "VN",
+                "Capital": "河内"
+            },
+            {
+                "CName": "伊朗",
+                "EName": "IR",
+                "Capital": "德黑兰"
+            },
+            {
+                "CName": "也门",
+                "EName": "YE",
+                "Capital": "萨那"
+            },
+            {
+                "CName": "约旦",
+                "EName": "JO",
+                "Capital": "安曼"
+            },
+            {
+                "CName": "缅甸",
+                "EName": "MM",
+                "Capital": "内比都"
+            },
+            {
+                "CName": "孟加拉国",
+                "EName": "BD",
+                "Capital": "达卡"
+            },
+            {
+                "CName": "新加坡",
+                "EName": "SG",
+                "Capital": "新加坡城"
+            },
+            {
+                "CName": "以色列",
+                "EName": "IL",
+                "Capital": "耶路撒冷"
+            },
+            {
+                "CName": "塞浦路斯",
+                "EName": "CY",
+                "Capital": "尼科西亚"
+            },
+            {
+                "CName": "土耳其",
+                "EName": "TR",
+                "Capital": "安卡拉"
+            }
+        ]
+    },
+    "Oceania": {
+        "country": [
+            {
+                "CName": "澳大利亚",
+                "EName": "AU",
+                "Capital": "堪培拉"
+            },
+            {
+                "CName": "新西兰",
+                "EName": "NZ",
+                "Capital": "惠灵顿"
+            },
+            {
+                "CName": "帕劳",
+                "EName": "PW",
+                "Capital": "美莱凯奥克"
+            },
+            {
+                "CName": "密克罗尼西亚",
+                "EName": "MF",
+                "Capital": "帕利基尔"
+            },
+            {
+                "CName": "马绍尔群岛",
+                "EName": "MH",
+                "Capital": "马朱罗"
+            },
+            {
+                "CName": "瑙鲁",
+                "EName": "NR",
+                "Capital": "亚伦"
+            },
+            {
+                "CName": "巴布亚新几内亚",
+                "EName": "PG",
+                "Capital": "莫尔兹比港"
+            },
+            {
+                "CName": "所罗门群岛",
+                "EName": "SB",
+                "Capital": "霍尼亚拉"
+            },
+            {
+                "CName": "瓦努阿图",
+                "EName": "VU",
+                "Capital": "维拉港"
+            },
+            {
+                "CName": "图瓦卢",
+                "EName": "TV",
+                "Capital": "富纳富提"
+            },
+            {
+                "CName": "斐济",
+                "EName": "FJ",
+                "Capital": "苏瓦"
+            },
+            {
+                "CName": "萨摩亚",
+                "EName": "WS",
+                "Capital": "阿皮亚"
+            },
+            {
+                "CName": "基里巴斯",
+                "EName": "KI",
+                "Capital": "塔拉瓦"
+            },
+            {
+                "CName": "汤加",
+                "EName": "TO",
+                "Capital": "努库阿洛法"
+            },
+            {
+                "CName": "库克群岛",
+                "EName": "CK",
+                "Capital": "阿瓦鲁阿"
+            },
+            {
+                "CName": "纽埃",
+                "EName": "NU",
+                "Capital": "阿洛菲"
+            }
+        ]
+    }
+}

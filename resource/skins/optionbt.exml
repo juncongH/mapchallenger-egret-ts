@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="optionbtSkin" states="up,right,error,disabled" minHeight="50" minWidth="100" currentState="up" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="grayBt_png" includeIn="disabled" x="0" y="0" width="500" height="200"/>
+	<e:Image source="pinkBt_png" includeIn="error" x="0" y="0" width="500" height="200"/>
+	<e:Image source="blueBt_png" includeIn="right" x="0" y="0" width="500" height="200"/>
+	<e:Image source="grayBt_png" includeIn="up" x="0" y="0" width="500" height="200"/>
+    <e:Label id="labelDisplay" top="8" bottom="8" left="8" right="8"
+             size="60"
+             verticalAlign="middle" textAlign="center" includeIn="up,right,error,disabled" maxHeight="200" maxWidth="500" textColor="0x000000" textColor.right="0x07F1DE" textColor.error="0xCC06F6"/>
+    <e:Image id="iconDisplay" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image source="pink_png" includeIn="error" x="0" y="10"/>
+	<e:Image source="gray_png" includeIn="up" x="0" y="10"/>
+	<e:Image source="gray_png" x="0" y="10" includeIn="disabled"/>
+	<e:Image source="blue_png" includeIn="right" x="0" y="10"/>
+
+	<w:Config id="17f834ccf92" ></w:Config>
+</e:Skin>

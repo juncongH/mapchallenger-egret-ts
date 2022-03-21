@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SelectAreaBT" width="128" height="128" xmlns:e="http://ns.egret.com/eui">
+	<e:ToggleButton label="ToggleButton" left="0" top="0" width="128" height="128" visible="false"/>
+	<e:Image source="select_png" x="0" y="0" width="128" height="128"/>
+</e:Skin>
